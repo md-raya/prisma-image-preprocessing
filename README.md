@@ -32,7 +32,7 @@ The following libraries will be needed to properly use the Jupyter Notebook:
 
 # Contributors
 
-María Dolores Raya-Sereno
+María Dolores Raya-Sereno  
 Vicente Burchard-Levine
 
 # License
