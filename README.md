@@ -12,3 +12,6 @@ Radiometric pre-processing includes the removal of water absorption bands and no
 This pre-processing workflow is designed to improve the geometric shift and spectral quality of PRISMA hyperspectral data for subsequent remote sensing analysis.
 
 This repository was developed within the framework of the SEMHy-ARID project funded by the [EO-Africa R&D Reseach facility] (https://www.eoafrica-rd.org/) and the [European Space Agency (ESA)] (https://www.esa.int/).
+
+---
+
