@@ -15,7 +15,7 @@ Geometric pre-processing uses the AROSICS co-registration algorithm (https://git
 Radiometric pre-processing includes the removal of water absorption bands and noisy spectral bands. Noisy bands are identified by comparison with reference spectra of grass measured in the field with an ASD FieldSpec® spectroradiometer.
 
 # Instalation
---
+
 The following libraries will be needed to properly use the Jupyter Notebook:
 - gdal
 - geopandas
@@ -31,12 +31,12 @@ The following libraries will be needed to properly use the Jupyter Notebook:
 - notebook
 
 # Contributors
---
+
 María Dolores Raya-Sereno
 Vicente Burchard-Levine
 
 # License
---
+
 prisma-image-preprocessing
 
 Copyright 2026 María Dolores Raya-Sereno and contributors.
