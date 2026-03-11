@@ -30,6 +30,14 @@ The following libraries will be needed to properly use the Jupyter Notebook:
 - rasterio
 - notebook
 
+# Download sample dataset 
+
+In order to run the sample script, download the sample dataset [here](https://saco.csic.es/s/43Doj2XAWztLRt2)
+
+Copy the image data from above link to your local folder in the *images* folder (/images). 
+
+The output is also provided in the above link for reference. 
+
 # Contributors
 
 María Dolores Raya-Sereno  
